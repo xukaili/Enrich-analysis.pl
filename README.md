@@ -6,8 +6,8 @@ Transcriptome data analysis is facing a major challenge to dig out research rela
 ## License
 Academic users may download and use the application free of charge according to the accompanying license. Commercial users must obtain a commercial license from Xukai Li. If you have used the program to obtain results, please cite the following paper:</br>
 > 李旭凯*，王钇杰，王俊杰. Enrich_analysis.pl，差异表达基因富集分析的perl脚本, 生物信息学, 2018, 16(3):178-183.</br></br>
-> https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XXSW201803007&v=MzA4ODdlWmVkbUZ5bmhXcjNKUFRYWWViRzRIOW5Nckk5Rlk0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE8=</br>
-</br>
+> https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XXSW201803007&v=MzA4ODdlWmVkbUZ5bmhXcjNKUFRYWWViRzRIOW5Nckk5Rlk0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE8=</br></br>
+
 ## Getting started
 Put __`Enrich_analysis.pl`__ and annotation.txt, DEGlist.txt files in a same dir, then run:</br>
 ```
